@@ -20,7 +20,7 @@ export default function Home() {
       <Tilt
         glareEnable={true}
         glareMaxOpacity={0.2}
-        scale={1.05}
+        scale={1.05} 
         transitionSpeed={2000}
         className="w-full max-w-xl"
       >
