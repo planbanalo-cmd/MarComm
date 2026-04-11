@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { motion } from "framer-motion";
-import ParticlesBackground from "../components/ParticlesBackground";
+import ParticlesBackground from "../components/ParticlesBackground"; 
 import Tilt from "react-parallax-tilt";
 
 export default function Home() {
