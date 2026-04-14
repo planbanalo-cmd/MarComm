@@ -52,7 +52,7 @@ export default function Home() {
           </p>
 
           <p className="text-sm text-gray-500 mt-6">
-            © 2026 Markcom
+            © 2026 themarcom. All rights reserved.
           </p>
 
         </motion.div>
